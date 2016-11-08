@@ -33,7 +33,7 @@
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 ####บันทึกผลการทดลอง
-<hr>
+<hr>![](https://github.com/BenzThanakrit/LAB-04/blob/master/imgs/Capture.PNG?raw=true)
 <hr>
 <hr>
 <hr>
